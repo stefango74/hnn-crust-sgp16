@@ -1,0 +1,7 @@
+Matlab script:
+Download Matlab from https://mathworks.com, follow instructions on website to install and make sure 'matlab' is in path.
+
+C++ code:
+execute './install.sh' to install missing packages
+execute 'make' on command line
+
